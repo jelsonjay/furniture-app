@@ -128,7 +128,7 @@ header nav a:hover {
 /* --------------- Hero ---------------- */
 .hero {
 	min-height: calc(100vh - 60px);
-	background: url('../../images/hero.png') center/cover no-repeat;
+	background: url('./images/hero.png') center/cover no-repeat;
 	display: flex;
 	align-items: center;
 	justify-content: center;
