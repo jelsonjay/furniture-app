@@ -1,0 +1,76 @@
+{
+	"items": [
+		{
+			"sys": { "id": "1" },
+			"fields": {
+				"title": "Home Tammy 3 Seater Fabric Sofa",
+				"price": 410.99,
+				"image": { "fields": { "file": { "url": "./images/sofa-1.jpg" } } }
+			}
+		},
+		{
+			"sys": { "id": "2" },
+			"fields": {
+				"title": "Habitat Reagan Right Corner Fabric Sofa Bed",
+				"price": 512.99,
+				"image": { "fields": { "file": { "url": "./images/sofa-2.jpg" } } }
+			}
+		},
+		{
+			"sys": { "id": "3" },
+			"fields": {
+				"title": "Home 2 Seater Faux Leather Tub Sofa - Gray",
+				"price": 312.99,
+				"image": { "fields": { "file": { "url": "./images/sofa-3.jpg" } } }
+			}
+		},
+		{
+			"sys": { "id": "4" },
+			"fields": {
+				"title": "Habitat Eton Left Corner Fabric Sofa - Grey",
+				"price": 922.99,
+				"image": { "fields": { "file": { "url": "./images/sofa-4.jpg" } } }
+			}
+		},
+		{
+			"sys": { "id": "5" },
+			"fields": {
+				"title": "Habitat Hendricks 3 Seater Velvet Sofa - Orange",
+				"price": 988.99,
+				"image": { "fields": { "file": { "url": "./images/sofa-5.jpg" } } }
+			}
+		},
+		{
+			"sys": { "id": "6" },
+			"fields": {
+				"title": "Habitat Hendricks 6 Seater Fabric Sofa - Blue",
+				"price": 1932.99,
+				"image": { "fields": { "file": { "url": "./images/sofa-6.jpg" } } }
+			}
+		},
+		{
+			"sys": { "id": "7" },
+			"fields": {
+				"title": "Habitat Julien 2 Seater Velvet Sofa - gary",
+				"price": 545.99,
+				"image": { "fields": { "file": { "url": "./images/sofa-7.jpg" } } }
+			}
+		},
+		{
+			"sys": { "id": "8" },
+			"fields": {
+				"title": "Milano 3 Seater Leather Sofa - Black",
+				"price": 633.99,
+				"image": { "fields": { "file": { "url": "./images/sofa-8.jpg" } } }
+			}
+		},
+		{
+			"sys": { "id": "9" },
+			"fields": {
+				"title": "Home Toby 3 Seater Faux Leather Recliner Sofa - Yellow",
+				"price": 733.99,
+				"image": { "fields": { "file": { "url": "./images/sofa-9.jpg" } } }
+			}
+		}
+	]
+}
