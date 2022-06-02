@@ -372,7 +372,6 @@ header nav a:hover {
 	text-transform: uppercase;
 	color: var(--primaryColor);
 }
-
 /*===============footer===================*/
 .footer .footer-container {
 	width: 100vw;
@@ -422,7 +421,6 @@ header nav a:hover {
 }
 
 /*===========media query===============*/
-
 @media (max-width: 768px) {
 	#menu-icon {
 		position: absolute;
